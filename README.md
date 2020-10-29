@@ -18,7 +18,7 @@ streamlit run app.py
 ```
 Then open the link on browser
 
-![image-20201029205626561](assets/image-20201029205626561.png)
+![image-20201029205626561](assets/image-20201029213750890.png)
 
 #### Tkinter-UI
 
