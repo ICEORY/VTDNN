@@ -1,0 +1,5 @@
+*.pyc
+*.pth
+.vscode
+record/
+__pycache__
